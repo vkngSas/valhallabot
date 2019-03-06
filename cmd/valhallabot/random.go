@@ -43,7 +43,7 @@ func countImakPinged(s *discordgo.Session, m *discordgo.MessageCreate) {
 		"He's already been pinged #pings times. I bet you won't do it again.",
 		"When will you learn? Once is not enough! Neither is the previous #pings.",
 		"We need to get those numbers up. Those are rookie numbers. That's a total of only #pings pings.",
-		"Why you have to be mad? It is only ping? #pings total.",
+		"Why you have to be mad? Is only ping? #pings total.",
 		"Rally? ... nah, PING. That's #pings times.",
 		"I doubt he'll respond. He's already been pinged #pings times.",
 		"Tha ping goes skrraaaa, pop, pop, ka ka ka. That's #pings now.",
